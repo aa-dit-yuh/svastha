@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "22.0.0",
+    "name": "Svaasth",
+    "slug": "svaasth",
+    "icon": "src/images/app-icon.png",
+    "orientation": "portrait",
+    "android": {
+      "package": "in.narayanaditya.svaasth"
+    },
+    "privacy": "public"
+  }
+}
